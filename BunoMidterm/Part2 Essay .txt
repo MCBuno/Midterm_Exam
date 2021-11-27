@@ -1,0 +1,12 @@
+1. Differentiate the following CSS selectors-
+a. Combining selectors- a combining selectors explains the relationship between selectors, and we can include a combinator between selectors.
+b. Class and ID selectors-The Differentiate of the clas and the ID selectors is that the clas can be used more than one unlike the Id selectors it can be used on only a specific element 
+Class -it can be called like this class="" and it should have a dot in the beginning when you declare in the css.
+ID Selectors- The id selectors is an id Attribute of HTML element to select a specify element and it directs to which you only want to direct the scpecific code 
+c. Pseudo-classes- the Pseudo classes it is used to special specific element it can be flexible and maintaining a code and it can be lessen the calling of classes in the css and you can a group of the specific code one example is that it can used in all first sentences the others sentences is not damaged by it.
+
+2. Differentiate the following hyperlinks styling attributes -
+a. a:hover:it is an element that it hovers when you move the cursor along with it
+b. a:active it is an element like a button that you can click on it activates 
+c. a:visited- it is an element that directes like Google or any link that you put it will automatically direct you to the link 
+d. a:link - it is a selector is used to select unvisited links like google or any other sites. 

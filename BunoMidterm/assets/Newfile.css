@@ -1,0 +1,99 @@
+.title {
+    color: rgb(79, 154, 189);
+}
+.cli{
+    color:#1098ad;
+    font-family:  sans-serif;
+    padding-left: 10px;
+    text-decoration: none;
+
+}
+a:hover, a:active {
+    color: red;
+    }
+.centery{
+    max-width: 1000px;
+    margin: auto;
+}
+h2{
+    float: top ;
+    position: absolute;
+    top: 10px;
+    right: 150px;
+}
+h2::after {
+    content: "TOP";
+    background-color: orange;
+    font-size: 15px;
+    font-weight: bold;
+    position: absolute;
+}h4::after{
+    content: "HOT";
+    background-color:orange;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+.no-dot {
+    list-style-type: none;
+}
+.n {
+    padding: 20px;
+    background: black;
+    color: white;
+    border-radius: 8px;
+    list-style-type: none;
+}
+
+aside{
+    border-top: solid rgb(79, 154, 189);
+    border-bottom: solid rgb(79, 154, 189);
+    background-color: rgb(247, 247, 248);
+    list-style-type: none;
+    float: left;
+    position: relative;
+    top: -1755px;
+    left: 170px;
+}
+h5{
+    background-color: rgb(247, 247, 248);
+    list-style-type: none;
+    float: left;
+    position: relative;
+    top: -1300px;
+    left: -170px;
+}
+.articontainer {
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    float: top ;
+    position: relative;
+    top: -300px;
+    left: 200px;
+}
+.c {
+    color: rgb(79, 154, 189);
+}
+.pad{
+    background-color: #f7f7f7;
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid brown;
+    list-style-type: none;
+    padding: 15px 20px;
+    float: left;
+    left: 420px;
+    width: 280px;
+}
+.any{
+    padding: 13px;
+  background: black;
+  color: white;
+  border-radius: 8px;
+}
+.data{
+    padding: 20px;
+    background: black;
+    color: white;
+    border-radius: 8px;
+}
